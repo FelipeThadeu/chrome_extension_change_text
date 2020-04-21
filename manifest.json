@@ -1,7 +1,7 @@
 {
-    "name": "Upper Case",
+    "name": "Change Text",
     "version": "1.0",
-    "description": "Change text from normal case to upper case",
+    "description": "Change text from normal case to upper case or title case",
     "browser_action":{
         "default_popup": "index.html"
     },
